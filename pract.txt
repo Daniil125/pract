@@ -1,3 +1,4 @@
+str
 int
 hi
 1000
